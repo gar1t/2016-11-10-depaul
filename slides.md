@@ -98,16 +98,16 @@
 
 ---
 
+<img src="nn1.png" height="300">
+<img src="nn4.png">
+
+---
+
 ## Activations
 
 <img src="activation.png" height="500">
 
 <small>Source: [https://en.wikipedia.org/wiki/Activation_function](https://en.wikipedia.org/wiki/Activation_function)</small>
-
----
-
-<img src="nn1.png" height="300">
-<img src="nn4.png">
 
 ---
 
@@ -158,4 +158,4 @@
 - [Caffe](http://caffe.berkeleyvision.org/)
 - [Theano](http://deeplearning.net/software/theano/)
 - [MXNet](http://mxnet.io/)
-- Lots more!
+- More!
